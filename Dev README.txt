@@ -26,3 +26,7 @@ As far as where to get started:
 -item id numbers are defined in cfg/item.cfg
 -npcs are defined in cfg/npc.cfg
 -npc spawns are done in spawn-config.cfg
+
+You'll also want to unzip the bin.zip so all the folders are there and compiling doesn't fuck up hard.
+You'll need to shutdown a server you're running before you can recompile.
+
