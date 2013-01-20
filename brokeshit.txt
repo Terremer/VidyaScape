@@ -1,0 +1,65 @@
+shit that's broke
+
+-chopping trees is done from a distance
+-some doors don't open/gates
+-most ladders work now
+-the smelting menu only works when you select make 1
+-mining is laggy as balls
+-running is unreliable (not a problem with unlim running)
+-some anvils don't work even with a hammer
+-pickpocket stalls are fucked (less fucked, but fucked).
+-no music.
+-big nets don't work.
+-shops can get full and crash people who interact with them (tangentally fixed by there being more shops now)
+-al karhid furnace still not able to be used
+-stalls only give dueling rings
+-using a dueling ring produces an empty vial.
+-On the RC guy in Alhazard. You have every altar listed but Chaos.
+-selecting "climb up" on the middle ladder of a 3 ladder stack goes down...
+-only cut willows when i approach them from the left
+-essence isn't mineable
+-fly fishing fails to use feathers
+-runecrafting portals don't work (the 4 elemental ones do now)
+-add a buy x feature
+-friends list can fail to update
+-fix a gate in the wild
+-ladders on wolf mountain send you to taverly dungeon/the ladder out of taverly dungeon sends you to wolf mountain(down ladder code #1759, up #1755)...  bigger issue is the 3 ladders have the same code, so need to do that by player positions...  and find the Ice Caverns coordinates
+-tallys "locate" doesn't work
+-mahogany trees can't be cut
+-catching anchovies says "you catch shrimp", catching salmon says "you catch trout" Fishing.java needs rewritten as it's all kinds of over complicated and messed up
+-ghostly cloak goes in your weapon slot
+-Some spells may not use elemental magic staves correctly
+-telegrab doesn't work (how to remove item from ground)
+-Add Linux file system support (eg search for cache in x directory)
+
+-=BROKEN DOORS AND LADDERS=-
+double door 1506 @ 3298,3171
+double door 1506 @ 3292,3167
+double door 1508 @ 3287,3171
+double door 1519 @ 3217,3219
+curtain 1528 @ 3288, 3173
+curtain 1528 @ 3182, 2984
+curtain 1528 @ 3172 2977
+door 1530 @ 3208,3211
+door 1536 @ 3215,3211
+stairs 1738 @ 3204,3297
+stairs 1739 @ 3204,3297,1
+gate 1551 @ 3107,3273
+gate 1551 @ 3181,3289
+gate 1553 @ 3146,3291
+gate 1553 @ 3162,3290
+tentdoor 2700 @ 3169 3046
+shantasy pass 4031 @ 3302,3116
+gate 7049 @ 3077,3258
+stairs 7057 @ 3090,3251
+door 11993 @ 3109,3167
+door 11993 @ 3111,3162
+door 11993 @ 3107,3162
+double door 12350 @ 3213,3222
+stairs 12536 @ 3103,3159
+ladder 12963 @ 3164,3307
+gate 12987 @ 3189,3279
+
+
+
+

@@ -1,0 +1,40 @@
+-bamboo ladders work now
+-air,water,fire and earth altars now work (fuck tiaras)
+-goblins can now drop the 4 elemental tallys
+-farmers can drop spades
+-fishing now uses bait when catching sardines
+-luring spots aren't npcs (fly fishing doesn't use feathers tho...)
+-added ::help and ::commands and ::y
+-::y now works as intended JK IT WAS STILL BROKE
+-salmon can be fished (they also don't use feathers up)
+-anchovies can be fished
+-anchovies can be eaten
+-a rudimentry custom shop system has been coded
+-all of port sarim now has the appropriate shops
+-ladders and stairs in port sarim have been fixed
+-::y *actually* works as intended to
+-fally banks now work
+-al kharid furnace now turned(doesn't work still)
+-al kharid now has shops!
+-::patchnotes got an overhaul!
+
+-=January 08=-
+-another door&ladder patch, more should work now :)
+-added a safe server shutdown, with global warnings
+-made the ::mypos command public, use it for bug reports
+-Varrock tele now uses magic staves correctly, more soon and xp
+
+-=January 10=-
+-all teles now use magic staves correctly
+-teles now give xp (and at 1.5x rate)
+-another ladder type works (IT NEVER ENDS)
+-Trollheim and Watchtower teles work now
+-added ::planned
+
+-=January 19=-
+-Amulets of Glory now work
+-More ladder cases fixed (standard)
+-The Heroes Guild cave is now accessible
+
+-=Jamuary 20=-
+-energy now resets upon death
