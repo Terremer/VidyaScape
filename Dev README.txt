@@ -6,7 +6,7 @@ You'll need a JDK (java development kit) installed first of all.  Install Git, c
 then use git to "clone" a copy to your local system, as this is what you will be working on.  You'll be running a
 local copy of the server you can test the shit you're working on.  Get the devclient @ 
 https://www.dropbox.com/s/25odt4f6kqpldrc/VidyaScape%20Dev%20Client.zip.  
-You should have the cache already, but it's included anyways, the folder goes on your C: drive.  
+You should have the cache already(C:\Prixuscache\alldashitgoeshere), but it's included anyways, the folder goes on your C: drive.  
 This client is setup to connect to a local server.  
 
 Be sure to unzip the bin.zip at this point.
