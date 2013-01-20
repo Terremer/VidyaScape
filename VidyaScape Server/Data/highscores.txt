@@ -1,0 +1,17 @@
+//Rank# PlayerName TotalLevel XPTotal
+0	Nick	90	11722
+1	David	79	13988
+2	Ervis	51	4136
+3	Asd	49	4056
+4	Lulz	31	1450
+5	Odel2	30	1364
+6	Testes	30	1348
+7	Mod Kevin	30	1300
+8	Mod Kfds	30	1300
+9	Test	30	1300
+10	Trololol	30	1300
+11	New Account	30	1300
+12	Izumi	30	1300
+13	Odel	30	1300
+14	Odel3	30	1300
+.
