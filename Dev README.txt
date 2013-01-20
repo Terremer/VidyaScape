@@ -18,3 +18,11 @@ To make changes, close the server (your client will be dc'd), edit your code, us
 .bat.  The server will start back up and you can login to test your changes.
 
 You'll need to shutdown a server you're running before you can recompile or it will just sit there.
+
+
+As far as where to get started:
+
+-drops are done in Config.java
+-item id numbers are defined in cfg/item.cfg
+-npcs are defined in cfg/npc.cfg
+-npc spawns are done in spawn-config.cfg
